@@ -43,7 +43,7 @@ This task entailed the analysis of social media ad campaign data for a fintech c
 ## Highlights from Analysis
 - Females (F) generate the most impressions (114.8M) and the most clicks (23.8k).
 - Impressions are highest on Wednesdays. 
-- The campaign seems to appeal to Age groups 30-34 and 45-49.
+- The campaign seems to appeal to age groups 30-34 and 45-49.
 - CTR varies per day, showing varying levels of engagement. CTR then declines as time goes by, showing that the campaign was losing its appeal.
 - Only 2 ads from the top 10 ads by allocated total ad spend, pulled in enquiries and active users.
 - Impressions with most age groups was on a high trend until 21st August, which then saw a decline. The exception was age groups 35-39, which saw a steady decline until 21st August and then tanked further.
@@ -56,8 +56,7 @@ This task entailed the analysis of social media ad campaign data for a fintech c
 
 ## Skills Gained
 - Data Cleaning.
-- Marketing Analytics.
-- Marketing Metrics Demystified - CTR, CPC, Conversion Rate, Reach & Impressions.
+- Marketing Analytics - CTR, CPC, Conversion Rate, Reach & Impressions.
 - Trend and Forecast Analysis.
 - DAX (Data Analysis Expressions).
 - Data presentation.
