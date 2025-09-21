@@ -27,9 +27,7 @@ This task entailed the analysis of social media ad campaign data for a fintech c
 ## Repository Structure
 - Tableau Files:
   
-  Dashboard 1: https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1GeneralMetrics.twbx
-  
-  Additional Metrics: https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1AdditionalMetrics.twbx
+  Dashboard: https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.twb
   
   Link 1: https://public.tableau.com/views/Task1GeneralMetrics/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
@@ -37,11 +35,11 @@ This task entailed the analysis of social media ad campaign data for a fintech c
  
 - Screenshots:
   
-  1. https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1GeneralMetrics.png
+  1. https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.png
   
-  2. https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1AdditionalMetrics.png
+  2. https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Continuation.png
 
-- Dataset: https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/superstore_cleaned.csv
+- Dataset: https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/data_cleaned.csv
 
 ## Recommendations - Next Campaign
 
