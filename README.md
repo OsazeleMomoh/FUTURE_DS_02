@@ -2,7 +2,7 @@
 ## Task 2: Social Media Campaign Performance Tracker (Tableau)
 
 This repository will house my work for *Task 2* of my internship with Future Interns.
-This task entailed the analysis of social media ad campaign data for a fintech company to provide them with insights such as *top ads by engagement*, *click through rate (CTR)*, *conversion rate* and ultimately, *pointers for improvement* on their next ad campaign. I used *Tableau* for this task. I chose *Tableau* for this task as I'm a *MacOS* user but a similar dashboard can be achieved using *Power BI*.
+This task entailed the analysis of social media ad campaign data for a fintech company to provide their marketing team with insights such as *top ads by engagement*, *click through rate (CTR)*, *conversion rate* and ultimately, *pointers for improvement* on their next ad campaign. I used *Tableau* for this task. I chose *Tableau* for this task as I'm a *MacOS* user but a similar dashboard can be achieved using *Power BI*.
 
 ## Dashboard Insights
 - Total Spent for campaign.
@@ -69,5 +69,5 @@ This task entailed the analysis of social media ad campaign data for a fintech c
 
 ---
 
-This dashboard offers a detailed, data-centric visual of Facebook campaign metrics—performance, engagement, and spend, which equips marketers with insights needed to drive strategic optimizations and enhance the conversion rate of subsequent ad campaigns.
+This dashboard offers a detailed, data-centric visual of Meta ad campaign metrics: performance, engagement and spend, which equips the marketing team with insights needed to drive strategic optimizations and enhance the conversion rate of subsequent ad campaigns.
 
